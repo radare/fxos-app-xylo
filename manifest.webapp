@@ -1,0 +1,17 @@
+{
+  "name": "xylo",
+  "launch_path": "/index.html",
+  "description": "Draw your xylophone!",
+  "default_locale": "en",
+  "version": "0.1.0",
+  "developer": {
+    "name": "pancake",
+    "url": "http://lolcathost.org/b/xylo"
+  },
+    "fullscreen": "true",
+  "orientation": "landscape-primary",
+  "icons": {
+    "256": "/icon.png",
+    "128": "/icon128.png"
+  }
+}
